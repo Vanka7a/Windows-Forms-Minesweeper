@@ -1,0 +1,21 @@
+d:\documents\visual studio 2015\Projects\AnotherMinesweeper\AnotherMinesweeper\bin\Debug\AnotherMinesweeper.exe.config
+d:\documents\visual studio 2015\Projects\AnotherMinesweeper\AnotherMinesweeper\bin\Debug\AnotherMinesweeper.exe
+d:\documents\visual studio 2015\Projects\AnotherMinesweeper\AnotherMinesweeper\bin\Debug\AnotherMinesweeper.pdb
+d:\documents\visual studio 2015\Projects\AnotherMinesweeper\AnotherMinesweeper\obj\Debug\AnotherMinesweeper.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\AnotherMinesweeper\AnotherMinesweeper\obj\Debug\AnotherMinesweeper.FormLvlSelect.resources
+d:\documents\visual studio 2015\Projects\AnotherMinesweeper\AnotherMinesweeper\obj\Debug\AnotherMinesweeper.FormMinesweeper.resources
+d:\documents\visual studio 2015\Projects\AnotherMinesweeper\AnotherMinesweeper\obj\Debug\AnotherMinesweeper.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\AnotherMinesweeper\AnotherMinesweeper\obj\Debug\AnotherMinesweeper.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\AnotherMinesweeper\AnotherMinesweeper\obj\Debug\AnotherMinesweeper.exe
+d:\documents\visual studio 2015\Projects\AnotherMinesweeper\AnotherMinesweeper\obj\Debug\AnotherMinesweeper.pdb
+C:\Users\user\Desktop\code\UniBullshit\Year1\AnotherMinesweeper\AnotherMinesweeper\bin\Debug\AnotherMinesweeper.exe.config
+C:\Users\user\Desktop\code\UniBullshit\Year1\AnotherMinesweeper\AnotherMinesweeper\bin\Debug\AnotherMinesweeper.exe
+C:\Users\user\Desktop\code\UniBullshit\Year1\AnotherMinesweeper\AnotherMinesweeper\bin\Debug\AnotherMinesweeper.pdb
+C:\Users\user\Desktop\code\UniBullshit\Year1\AnotherMinesweeper\AnotherMinesweeper\obj\Debug\AnotherMinesweeper.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\code\UniBullshit\Year1\AnotherMinesweeper\AnotherMinesweeper\obj\Debug\AnotherMinesweeper.FormLvlSelect.resources
+C:\Users\user\Desktop\code\UniBullshit\Year1\AnotherMinesweeper\AnotherMinesweeper\obj\Debug\AnotherMinesweeper.FormMinesweeper.resources
+C:\Users\user\Desktop\code\UniBullshit\Year1\AnotherMinesweeper\AnotherMinesweeper\obj\Debug\AnotherMinesweeper.Properties.Resources.resources
+C:\Users\user\Desktop\code\UniBullshit\Year1\AnotherMinesweeper\AnotherMinesweeper\obj\Debug\AnotherMinesweeper.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\code\UniBullshit\Year1\AnotherMinesweeper\AnotherMinesweeper\obj\Debug\AnotherMinesweeper.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code\UniBullshit\Year1\AnotherMinesweeper\AnotherMinesweeper\obj\Debug\AnotherMinesweeper.exe
+C:\Users\user\Desktop\code\UniBullshit\Year1\AnotherMinesweeper\AnotherMinesweeper\obj\Debug\AnotherMinesweeper.pdb
